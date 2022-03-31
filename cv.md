@@ -20,7 +20,7 @@ VS Code.
 ## Code example:
 
 KATA from CODEWARS: Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
-
+```
 function moveZeros(arr) {
     let count = 0;
     let result = [];
@@ -43,9 +43,9 @@ function moveZeros(arr) {
 
     return result;
 }
-
+```
 KATA from CODEWARS: Well met with Fibonacci bigger brother, AKA Tribonacci. As the name may already reveal, it works basically like a Fibonacci, but summing the last 3 (instead of 2) numbers of the sequence to generate the next.
-
+```
 function tribonacci(signature,n){
     let oneNum = signature[0];
     let twoNum = signature[1];
@@ -69,21 +69,21 @@ function tribonacci(signature,n){
     }
     return signature.concat(arr);
 }
-
+```
 *********
 
 ## Education:
-Southern Federal University, Institute of Radio Engineering Systems and Control: Technical operation and repair of aircraft and engines.
-Southern Federal University, Institute of Management in Economic, Ecological and Social Systems: Jurisprudence.
-Southern Federal University, Institute of Nanotechnologies, Electronics and Equipment Engineering: Biotechnical systems and technologies.
+1. Southern Federal University, Institute of Radio Engineering Systems and Control: Technical operation and repair of aircraft and engines.
+2. Southern Federal University, Institute of Management in Economic, Ecological and Social Systems: Jurisprudence.
+3. Southern Federal University, Institute of Nanotechnologies, Electronics and Equipment Engineering: Biotechnical systems and technologies.
 
 ## Courses:
-learn.javascript.ru;
-code.mu;
-JavaScript/Front-end 2022Q1.
+1. learn.javascript.ru;
+2. code.mu;
+3. JavaScript/Front-end 2022Q1.
 
 *********
 
 ## Languages:
-Russian - Native;
-English - B1;
+1. Russian - Native;
+2. English - B1.
