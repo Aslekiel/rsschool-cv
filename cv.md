@@ -18,10 +18,10 @@ Greetings! I decided to radically change the direction of my activity, since I b
 *********
 
 ## Skills and Proficiency:
-HTML5, CSS3;
-JavaScript Basics;
-Git, GitHub;
-VS Code.
+* HTML5, CSS3;
+* JavaScript Basics;
+* Git, GitHub;
+* VS Code.
 
 *********
 
