@@ -1,17 +1,23 @@
-Evgeny Zavetny
-Contact information:
+# Evgeny Zavetny
+## Contact information:
 
-About Me
+*********
+
+## About Me
 
 Greetings! I decided to radically change the direction of my activity, since I believe that only in programming I am able to realize myself in it 100%. I have experience in managing people, stress-resistant, determined, attentive, able to learn. I spend my free time improving my skills.
 
-Skills and Proficiency:
+*********
+
+## Skills and Proficiency:
 HTML5, CSS3;
 JavaScript Basics;
 Git, GitHub;
 VS Code.
 
-Code example:
+*********
+
+## Code example:
 
 KATA from CODEWARS: Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 
@@ -64,16 +70,20 @@ function tribonacci(signature,n){
     return signature.concat(arr);
 }
 
-Education:
+*********
+
+## Education:
 Southern Federal University, Institute of Radio Engineering Systems and Control: Technical operation and repair of aircraft and engines.
 Southern Federal University, Institute of Management in Economic, Ecological and Social Systems: Jurisprudence.
 Southern Federal University, Institute of Nanotechnologies, Electronics and Equipment Engineering: Biotechnical systems and technologies.
 
-Courses:
+## Courses:
 learn.javascript.ru;
 code.mu;
 JavaScript/Front-end 2022Q1.
 
-Languages:
+*********
+
+## Languages:
 Russian - Native;
 English - B1;
